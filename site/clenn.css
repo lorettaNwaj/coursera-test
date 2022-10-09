@@ -1,0 +1,62 @@
+body {
+    background-image: url(./assets/dryclean.jpg);
+    background-size: cover;
+    background-position: center;
+
+    
+
+}
+
+h1 {
+    color: rgb(197, 157, 157);
+    display: flex;
+    justify-content: center;
+}
+
+#button{
+ margin-left: 550px;
+ cursor: pointer;
+ 
+   
+ }
+ 
+ .wash{
+
+    text-decoration: none; 
+    color:black;
+     display: block;
+     border: 3px solid black;
+     padding: 10px;
+     margin-bottom: 20px;
+     width: 160px;
+     height: 20px;
+    text-align: center;
+    border-radius: 50px;
+
+ }
+ .iron{
+    text-decoration: none; 
+    color:black;
+     display: block;
+     border: 3px solid black;
+     padding: 10px;
+     margin-bottom: 20px;
+     width: 160px;
+     height: 20px;
+    text-align: center;
+    border-radius: 50px;
+}
+.starch{
+    text-decoration: none; 
+    color:black;
+     display: block;
+     border: 3px solid black;
+     padding: 10px;
+     margin-bottom: 20px;
+     width: 160px;
+     height: 20px;
+    text-align: center;
+    border-radius: 50px;
+
+}
+    
